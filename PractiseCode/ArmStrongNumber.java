@@ -1,7 +1,5 @@
-// User function Template for Java
 class ArmStrongNumber {
     static boolean armstrongNumber(int n) {
-        // code here
         int len = String.valueOf(n).length();
         int temp = n;
         int res = 0;

@@ -1,0 +1,7 @@
+
+
+Stack OverFlow:-
+A recursive function calls itself endlessly without a proper base condition, leading to exhaustion of the call stack (the area in memory that stores function calls).
+
+What is a Recursion Tree?
+A recursion tree is a diagram that shows how a recursive algorithm breaks down a problem into subproblems.
